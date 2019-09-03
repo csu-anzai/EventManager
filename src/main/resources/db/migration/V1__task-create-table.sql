@@ -1,0 +1,4 @@
+CREATE TABLE Task(
+  ID SERIAL PRIMARY KEY,
+  Description VARCHAR(50)
+);

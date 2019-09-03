@@ -8,6 +8,8 @@ public class EventmanagerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EventmanagerApplication.class, args);
+
+
 	}
 
 }
